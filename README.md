@@ -5,10 +5,10 @@
 
 ## 👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erencelik96/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:celik.erenn96@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanbulut96/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:furkanbulut2023@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErenCelik96" alt="erencelik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbulut96" alt="furkanbulut" /> </p>
 
 ## ⚙ Tools
 
@@ -25,6 +25,6 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ErenCelik96&theme=chartreuse-dark" alt="my github stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenCelik96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=furkanbulut96&theme=chartreuse-dark" alt="my github stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanbulut96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
 
 
