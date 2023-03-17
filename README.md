@@ -29,6 +29,6 @@
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU0NDQyZjc3ZDA5NzgyZjRlNGEwM2RjOGVjMjE4MDgwN2JjYjllZiZjdD1n/BFTIo8mv9mXdDVKQSJ/giphy.gif" align="right" width="500">
+[React](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tour  |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU0NDQyZjc3ZDA5NzgyZjRlNGEwM2RjOGVjMjE4MDgwN2JjYjllZiZjdD1n/BFTIo8mv9mXdDVKQSJ/giphy.gif" align="right" width="500">
 
 
